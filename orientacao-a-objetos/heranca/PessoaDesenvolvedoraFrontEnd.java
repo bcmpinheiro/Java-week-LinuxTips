@@ -1,5 +1,3 @@
-
-
 public class PessoaDesenvolvedoraFrontEnd extends PessoaDesenvolvedora {
 
     public PessoaDesenvolvedoraFrontEnd(String nome, String stack, Double salario) {

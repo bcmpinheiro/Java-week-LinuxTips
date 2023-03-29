@@ -1,9 +1,3 @@
-
-
-//subclasse herda metodos e comportamentos de uma superclasse
-//semelhante a heranca da vida real
-//classe base possui serie de metodos
-//quem herda é obrigado a usar
 public class PessoaDesenvolvedora {
 
     private String nome;
@@ -39,7 +33,7 @@ public class PessoaDesenvolvedora {
     }
 
     public void codar() {
-        System.out.println("bora codar" );
+        System.out.println("Codar!");
     }
 
 }

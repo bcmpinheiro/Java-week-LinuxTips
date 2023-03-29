@@ -3,15 +3,13 @@ public class LinuxTipsBankMain {
 
     public static void main(String[] args) {
 
-        System.out.println("Seja bem vinda ao linux tips bank");
-        ContaCorrente ccKamila = new ContaCorrente();
-        ccKamila.consultarSaldo();
-        ccKamila.fazerPix();
+        System.out.println("Bem Vindo(a) ao Linux Tips Bank!");
+        ContaCorrente contaCorrente = new ContaCorrente();
+        contaCorrente.consultarSaldo();
+        contaCorrente.fazerPix();
 
-
-        ContaPoupanca cpKamila = new ContaPoupanca();
-        cpKamila.consultarSaldo();
-        cpKamila.fazerPix();
-
+        ContaPoupanca contaPoupanca = new ContaPoupanca();
+        contaPoupanca.consultarSaldo();
+        contaPoupanca.fazerPix();
     }
 }

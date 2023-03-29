@@ -1,5 +1,5 @@
 package sobrescrita;
-//sobrescrita mantem retorno e lista de parametros porem com implementação personalizada
+
 public class Botao {
 
 
