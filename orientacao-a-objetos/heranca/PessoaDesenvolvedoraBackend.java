@@ -1,4 +1,3 @@
-
 public class PessoaDesenvolvedoraBackend extends PessoaDesenvolvedora {
 
     public PessoaDesenvolvedoraBackend(String nome, String stack, Double salario) {
